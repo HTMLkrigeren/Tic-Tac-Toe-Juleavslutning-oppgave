@@ -157,7 +157,7 @@ html, body {
     #restartBtn {
         width: 17vh;
         height: 9vh;
-        font-size: 2vh;
+        font-size: 3vh;
     }
     #gameContainer {
         margin-top: 5vh;
@@ -172,7 +172,7 @@ html, body {
     #restartBtn {
         width: 17vh;
         height: 9vh;
-        font-size: 2vh;
+        font-size: 3vh;
         text-align: center;
     }
     #gameContainer {
