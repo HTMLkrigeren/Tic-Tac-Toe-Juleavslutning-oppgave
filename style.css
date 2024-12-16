@@ -37,13 +37,12 @@
     border-radius: 50px;
     width: 16vh;
     height: 8vh;
-    font-size: 3vh;
     cursor: pointer;
     display: block;
     font-weight: bold;
     color: black; 
     text-align: center;
-    font-size: 16px;
+    font-size: 2.5vh;
 }
 button {
     display: block;
@@ -142,7 +141,7 @@ html, body {
     #restartBtn {
         width: 15vh;
         height: 7vh;
-        font-size: 3vh;
+        font-size: 2.5vh;
     }
     #gameContainer {
         margin-top: 10vh;
@@ -150,14 +149,14 @@ html, body {
 }
 @media (max-height: 600px) {
     .image {
-        bottom: -10vh;         
-        left: -20vh;          
+        bottom: -11vh;         
+        left: -22vh;          
         width: 60vh;  
     }
     #restartBtn {
         width: 17vh;
         height: 9vh;
-        font-size: 2vh;
+        font-size: 2.2vh;
     }
     #gameContainer {
         margin-top: 5vh;
@@ -165,14 +164,14 @@ html, body {
 }
 @media (max-width: 669px) {
     .image {
-        bottom: -10vh;         
-        left: -20vh;          
+        bottom: -11vh;         
+        left: -22vh;          
         width: 50vh;  
     }
     #restartBtn {
         width: 17vh;
         height: 9vh;
-        font-size: 2vh;
+        font-size: 2.2vh;
         text-align: center;
     }
     #gameContainer {
