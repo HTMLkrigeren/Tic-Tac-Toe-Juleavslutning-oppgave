@@ -155,9 +155,9 @@ html, body {
         width: 60vh;  
     }
     #restartBtn {
-        width: 16vh;
-        height: 8vh;
-        font-size: 2.5vh;
+        width: 17vh;
+        height: 9vh;
+        font-size: 2vh;
     }
     #gameContainer {
         margin-top: 5vh;
@@ -170,9 +170,9 @@ html, body {
         width: 50vh;  
     }
     #restartBtn {
-        width: 16vh;
-        height: 8vh;
-        font-size: 2.5vh;
+        width: 17vh;
+        height: 9vh;
+        font-size: 2vh;
         text-align: center;
     }
     #gameContainer {
