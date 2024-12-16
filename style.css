@@ -40,13 +40,14 @@
     font-size: 3vh;
     cursor: pointer;
     display: block;
+}
+button {
+    display: block;
     margin: 0 auto;
     position: absolute;
-    bottom: -7vh; 
+    bottom: -7vh;  /* Juster denne verdien for å plassere knappen på ønsket høyde */
     left: 50%;
     transform: translateX(-50%);
-    font-family: 'Dancing Script', 'Arial', cursive;
-    font-weight: bold;
 }
 html, body {
     margin: 0;
