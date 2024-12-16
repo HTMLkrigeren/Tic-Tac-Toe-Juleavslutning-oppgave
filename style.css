@@ -21,6 +21,7 @@
 }
 #gameContainer {
     text-align: center;
+    font-family: 'Roboto', 'Arial', sans-serif;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -41,6 +42,7 @@
 #restartBtn {
     border: none;
     border-radius: 50px;
+    font-family: 'Roboto', 'Arial', sans-serif;
     width: 16vh;
     height: 8vh;
     font-size: 3vh;
@@ -51,6 +53,7 @@ html, body {
     padding: 0;
     height: 100%;
     overflow: hidden;
+    font-family: 'Roboto', 'Arial', sans-serif;
 }
 .image {
     position: fixed;  
