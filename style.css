@@ -40,6 +40,7 @@
     font-size: 3vh;
     cursor: pointer;
     display: block;
+    font-weight: bold;
 }
 button {
     display: block;
