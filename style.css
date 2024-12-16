@@ -1,4 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
+* {
+    font-family: 'Roboto', 'Arial', sans-serif;
+}
 
 
  .cell {
@@ -16,7 +20,6 @@
     background-color: #1a9e00;
 }
 #gameContainer {
-    font-family: "Permanent Marker", cursive;
     text-align: center;
     display: flex;
     flex-direction: column;
@@ -41,7 +44,6 @@
     width: 16vh;
     height: 8vh;
     font-size: 3vh;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     cursor: pointer;
 }
 html, body {
@@ -162,6 +164,7 @@ html, body {
         width: 16vh;
         height: 8vh;
         font-size: 3vh;
+        text-align: center;
     }
     #gameContainer {
         margin-top: 10vh;
